@@ -22,7 +22,6 @@ L’API permet de :
 - Express
 - MongoDB + Mongoose
 - Middleware CORS
-- Postman ou une application front-end pour tester l’API
 
 
 - Node.js installé
