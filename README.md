@@ -1,4 +1,4 @@
-----------------------------------------------# API Backend – Certification Full Stack--------------------------------------------
+-------------------------------------------------# API Backend – Certification Full Stack-----------------------------------------------
 Ce projet fait partie de ma préparation à la **certification backend** du cours :
 
 🎓 **Passez au Full Stack avec Node.js, Express et MongoDB**  
