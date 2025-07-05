@@ -7,8 +7,7 @@ const userRoutes = require('./routes/user');
 const path = require('path');
 
 
-// Nouvelle chaîne de connexion corrigée
-mongoose.connect('mongodb+srv://yasmineelmkhantar:yasmine@cluster0.uysjb28.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0')
+mongoose.connect('mongodb+srv://yasmineelmkhantar:yasmine123@cluster0.uysjb28.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0')
     .then(() => console.log('Connexion à MongoDB réussie !'))
     .catch((error) => {
         console.log('Connexion à MongoDB échouée !');
